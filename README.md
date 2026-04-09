@@ -82,8 +82,7 @@ A Power BI dashboard was created to visualize:
 ## Project Structure
 
 ```bash
-Banking-Customer-Risk-Transaction-Analysis
-/
+Banking-Customer-Risk-Transaction-Analysis/
 ├── data/
 │   ├── raw_data.csv
 │   └── cleaned_data.csv
