@@ -80,22 +80,23 @@ A Power BI dashboard was created to visualize:
 ---
 
 ## Project Structure
+
+```bash
 banking-analysis/
 ├── data/
-│ ├── raw_data.csv
-│ └── cleaned_data.csv
+│   ├── raw_data.csv
+│   └── cleaned_data.csv
 │
 ├── notebooks/
-│ └── data_cleaning_analysis.ipynb
+│   └── data_cleaning_analysis.ipynb
 │
 ├── sql/
-│ └── analysis_queries.sql
+│   └── analysis_queries.sql
 │
 ├── dashboard/
-│ └── powerbi_dashboard.pbix
+│   └── powerbi_dashboard.pbix
 │
 └── README.md
-
 
 ---
 
