@@ -81,40 +81,39 @@ A Power BI dashboard was created to visualize:
 
 ## Project Structure
 banking-analysis/
-│
 ├── data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
+│ ├── raw_data.csv
+│ └── cleaned_data.csv
 │
 ├── notebooks/
-│   └── data_cleaning_analysis.ipynb
+│ └── data_cleaning_analysis.ipynb
 │
 ├── sql/
-│   └── analysis_queries.sql
+│ └── analysis_queries.sql
 │
 ├── dashboard/
-│   └── powerbi_dashboard.pbix
+│ └── powerbi_dashboard.pbix
 │
-├── README.md
+└── README.md
 
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - A small percentage of customers contribute a large portion of total transaction value  
 - High-value transactions show distinct patterns in frequency and type  
 - Transaction type plays a key role in identifying unusual activity  
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add advanced fraud detection techniques  
 - Incorporate machine learning models  
 - Expand dashboard with real-time insights  
 
 ---
 
-## 📬 Contact
+## Contact
 **Ajay Tiwari**  
 📧 tiwariajay110125@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-tiwari-849725284/)  
