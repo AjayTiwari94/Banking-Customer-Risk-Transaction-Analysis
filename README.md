@@ -98,7 +98,7 @@ A Power BI dashboard was created to visualize:
 
 ## Project Structure
 
-bash
+```bash
 Banking-Customer-Risk-Transaction-Analysis/
 ├── data/
 │   ├── raw_data.csv
@@ -114,6 +114,8 @@ Banking-Customer-Risk-Transaction-Analysis/
 │   └── powerbi_dashboard.pbix
 │
 └── README.md
+
+```
 ---
 
 ## Key Takeaways
