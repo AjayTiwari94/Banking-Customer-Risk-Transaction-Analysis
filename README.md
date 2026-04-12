@@ -98,22 +98,22 @@ A Power BI dashboard was created to visualize:
 
 ## Project Structure
 
+bash
 Banking-Customer-Risk-Transaction-Analysis/
 ├── data/
 │   ├── raw_data.csv
 │   └── cleaned_data.csv
 │
 ├── notebooks/
-│   └── eda_analysis.ipynb
+│   └── data_cleaning_analysis.ipynb
 │
 ├── sql/
 │   └── analysis_queries.sql
 │
 ├── dashboard/
-│   └── banking_dashboard.pbix
+│   └── powerbi_dashboard.pbix
 │
 └── README.md
-
 ---
 
 ## Key Takeaways
