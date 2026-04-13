@@ -88,7 +88,7 @@ A Power BI dashboard was created to visualize:
 - Customer behavior and segmentation  
 
 ### Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/dashboard_powerBI.png)
 
 ---
 
