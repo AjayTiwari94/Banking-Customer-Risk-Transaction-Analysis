@@ -87,6 +87,9 @@ A Power BI dashboard was created to visualize:
 - High-value vs low-value transaction analysis  
 - Customer behavior and segmentation  
 
+### Dashboard Preview
+![Dashboard](dashboard/dashboard.png)
+
 ---
 
 ## Tools & Technologies
