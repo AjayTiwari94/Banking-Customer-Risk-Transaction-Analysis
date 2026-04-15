@@ -11,7 +11,7 @@ The dataset used is the **PaySim Synthetic Financial Dataset for Fraud Detection
 - Total dataset size: ~6.3 million transactions  
 - Working sample: ~55,000 transactions  
 - Key fields:
-  - `step` – time (in hours)
+  - `step` – time 
   - `type` – transaction type (PAYMENT, TRANSFER, CASH_OUT, etc.)
   - `amount` – transaction value
   - `nameOrig` – customer ID
@@ -33,7 +33,7 @@ The dataset used is the **PaySim Synthetic Financial Dataset for Fraud Detection
 ## Data Preparation
 The dataset was structured but required validation before analysis:
 
-- Sampled ~55,000 records from the original dataset for efficient processing  
+- Sampled 55,000+ records from the original dataset for efficient processing  
 - Checked for duplicate records using SQL window functions (**no duplicates found**)  
 - Identified and handled negligible missing values  
 - Performed transaction consistency checks using debit–credit logic  
