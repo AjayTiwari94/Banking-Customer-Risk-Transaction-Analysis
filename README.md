@@ -1,7 +1,7 @@
 # Banking Customer Risk & Transaction Analysis
 
 ## Overview
-This project analyzes banking transaction data to understand **customer behavior, transaction patterns, and fraud risk**. The analysis focuses on identifying high-value transactions, evaluating fraud distribution, and deriving insights that support data-driven decision-making using **SQL, Python, and Power BI**.
+This project analyzes banking transaction data to understand **customer behavior, transaction patterns, and fraud risk**. The analysis focuses on identifying high-value transactions, evaluating fraud distribution, brewing risk insights, and deriving insights that support data-driven decision-making using **SQL, Python, and Power BI**.
 
 ---
 
